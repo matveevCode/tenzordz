@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_vertical">24dp</dimen>
+    <dimen name="margin_horizontal">24dp</dimen>
+    <dimen name="margin_animation">12dp</dimen>
+
+    <dimen name="square_from_size">40dp</dimen>
+    <dimen name="square_to_size">60dp</dimen>
+    <dimen name="rectangle_from_height">20dp</dimen>
+    <dimen name="rectangle_to_height">120dp</dimen>
+</resources>
